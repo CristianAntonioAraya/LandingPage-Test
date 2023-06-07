@@ -20,12 +20,13 @@ Then use the next comand to run in dev mode
 
 ## _Configuration needed_
 
-The **.env.template** is the template for the api keys needed to run correctly the proyect.
+The **.env.template** is the template for the api keys needed to run correctly the proyect
+copy in .env file in the proyect root.
 
 ## _APIs used_
 
--   [https://newsapi.org/](News Api)
--   [https://covidtracking.com/](Covid Tracker Api)
--   [https://api-ninjas.com/api/quotes](Quotes Api)
+-   [News Api](https://newsapi.org/)
+-   [Covid Tracker Api](https://covidtracking.com/)
+-   [Recipe Api](https://api-ninjas.com/api/recipe)
 
 <hr/>

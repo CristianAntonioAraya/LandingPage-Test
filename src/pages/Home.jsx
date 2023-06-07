@@ -1,14 +1,11 @@
-import data from '../api/mocks/OkResponse.json';
 import Navbar from '../components/Navbar.jsx';
-import Articles from '../components/articles.jsx';
 
-const Main = () => {
+const Home = () => {
     return (
-        <div className="container mx-auto text-slate-100">
+        <div className="container mx-auto">
             <Navbar />
-            <Articles articles={data.articles} />
         </div>
     );
 };
 
-export default Main;
+export default Home;
